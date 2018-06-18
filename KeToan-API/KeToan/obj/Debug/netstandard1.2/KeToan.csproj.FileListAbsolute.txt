@@ -1,0 +1,16 @@
+D:\TinTan\vnsky2\Sources\API\KeToan-API\KeToan\bin\Debug\netstandard1.2\KeToan.deps.json
+D:\TinTan\vnsky2\Sources\API\KeToan-API\KeToan\bin\Debug\netstandard1.2\KeToan.dll
+D:\TinTan\vnsky2\Sources\API\KeToan-API\KeToan\bin\Debug\netstandard1.2\KeToan.pdb
+D:\TinTan\vnsky2\Sources\API\KeToan-API\KeToan\obj\Debug\netstandard1.2\KeToan.csprojResolveAssemblyReference.cache
+D:\TinTan\vnsky2\Sources\API\KeToan-API\KeToan\obj\Debug\netstandard1.2\KeToan.AssemblyInfo.cs
+D:\TinTan\vnsky2\Sources\API\KeToan-API\KeToan\obj\Debug\netstandard1.2\KeToan.dll
+D:\TinTan\vnsky2\Sources\API\KeToan-API\KeToan\obj\Debug\netstandard1.2\KeToan.pdb
+D:\Sources\Sources\API\KeToan-API\KeToan\bin\Debug\netstandard1.2\KeToan.deps.json
+D:\Sources\Sources\API\KeToan-API\KeToan\bin\Debug\netstandard1.2\KeToan.dll
+D:\Sources\Sources\API\KeToan-API\KeToan\bin\Debug\netstandard1.2\KeToan.pdb
+D:\Sources\Sources\API\KeToan-API\KeToan\obj\Debug\netstandard1.2\KeToan.csprojAssemblyReference.cache
+D:\Sources\Sources\API\KeToan-API\KeToan\obj\Debug\netstandard1.2\KeToan.csproj.CoreCompileInputs.cache
+D:\Sources\Sources\API\KeToan-API\KeToan\obj\Debug\netstandard1.2\KeToan.AssemblyInfoInputs.cache
+D:\Sources\Sources\API\KeToan-API\KeToan\obj\Debug\netstandard1.2\KeToan.AssemblyInfo.cs
+D:\Sources\Sources\API\KeToan-API\KeToan\obj\Debug\netstandard1.2\KeToan.dll
+D:\Sources\Sources\API\KeToan-API\KeToan\obj\Debug\netstandard1.2\KeToan.pdb
